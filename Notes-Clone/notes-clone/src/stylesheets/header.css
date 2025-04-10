@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #f5ba13;
+    display: flex;
+    padding: 16px 32px;
+}
+
+.header h1 {
+    margin: 0;
+    color: white;
+}
